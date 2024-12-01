@@ -1,0 +1,38 @@
+{
+  "common": {
+    "tagline": "Soluciones Inteligentes de Envío",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error"
+  },
+  "nav": {
+    "getQuote": "Cotizar",
+    "track": "Rastrear",
+    "analytics": "Análisis"
+  },
+  "home": {
+    "hero": {
+      "title": "Inteligencia de Envíos de Nueva Generación",
+      "subtitle": "Optimice su logística con soluciones de envío impulsadas por IA y seguimiento en tiempo real",
+      "quoteButton": "Comenzar",
+      "trackButton": "Rastrear Envío"
+    }
+  },
+  "features": {
+    "quote": {
+      "title": "Cotizaciones Inteligentes",
+      "description": "Compare tarifas entre transportistas con precios en tiempo real y descuentos automatizados"
+    },
+    "tracking": {
+      "title": "Seguimiento en Vivo",
+      "description": "Monitoree envíos con actualizaciones en tiempo real, datos meteorológicos y patrones de tráfico"
+    },
+    "analytics": {
+      "title": "Análisis Profundo",
+      "description": "Obtenga información de datos completos de envío y métricas de rendimiento"
+    },
+    "optimization": {
+      "title": "Optimización IA",
+      "description": "Optimice rutas y horarios utilizando algoritmos de aprendizaje automático"
+    }
+  }
+}

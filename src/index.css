@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './styles/cube-animation.css';
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply text-gray-900 antialiased;
+}

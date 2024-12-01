@@ -1,0 +1,38 @@
+{
+  "common": {
+    "tagline": "Smart Shipping Solutions",
+    "loading": "Loading...",
+    "error": "An error occurred"
+  },
+  "nav": {
+    "getQuote": "Get Quote",
+    "track": "Track Shipment",
+    "analytics": "Analytics"
+  },
+  "home": {
+    "hero": {
+      "title": "Next-Gen Shipping Intelligence",
+      "subtitle": "Optimize your logistics with AI-powered shipping solutions and real-time tracking",
+      "quoteButton": "Get Started",
+      "trackButton": "Track Shipment"
+    }
+  },
+  "features": {
+    "quote": {
+      "title": "Smart Quotes",
+      "description": "Compare rates across carriers with real-time pricing and automated discounts"
+    },
+    "tracking": {
+      "title": "Live Tracking",
+      "description": "Monitor shipments with real-time updates, weather data, and traffic patterns"
+    },
+    "analytics": {
+      "title": "Deep Analytics",
+      "description": "Gain insights from comprehensive shipping data and performance metrics"
+    },
+    "optimization": {
+      "title": "AI Optimization",
+      "description": "Optimize routes and schedules using machine learning algorithms"
+    }
+  }
+}
